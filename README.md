@@ -1,5 +1,5 @@
-### Hi there 👋
-<a href="https://linkedin.com><img src=http://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logocolor=white" /></a>
+### Hi there 👋 I'm Michael MacGregor
+<a href="https://www.linkedin.com/in/mmacgregorcpt"><img src=http://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logocolor=white" /></a>
 <!--
 **Cyb3rGhost70/Cyb3rGhost70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
