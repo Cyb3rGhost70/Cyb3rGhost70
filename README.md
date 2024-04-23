@@ -3,7 +3,7 @@
 # Michael MacGregor
 
 ## About Me
-Hey there! I'm Michael Macgregor, a aspiring SOC analyst passionate about Self-Reliance, and Disaster mitigation. I love [help people develop systems of self-reliance and personal security and enjoy exploring tech and building raspberry PI projects that can works with Ham radio, also currently, I'm building home lab project to help me in my pursuit of a lasting career in Cybersecurity starting with SOC analyst .
+Hey there! I'm Michael Macgregor, a aspiring SOC analyst passionate about Self-Reliance, and Disaster mitigation. I love helping people develop systems of self-reliance and personal security and enjoy exploring tech and building raspberry PI projects that can works with Ham radio, also currently, I'm building home lab project to help me in my pursuit of a lasting career in Cybersecurity starting with SOC analyst .
 
 ## Skills
 - Programming Languages: Python Java
