@@ -3,8 +3,10 @@
 <h2>👨‍💻 Cyber security Projects:</h2>
 
 - <b>Python Practice</b>
-  - [Practicing Python in Python]
-  - 
+  - Hello world project
+
+  - video game Pong 
+
 <h2>📺 Popular YouTube Videos</h2>
 
 <h2> Certifcations </h2>
