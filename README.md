@@ -18,6 +18,12 @@
 - Cisco 
 
 - Cisco 
+<h3> - 🌱 I’m currently learning </h3>
+
+-Python after finshing the normal HELLO WORLD in python 
+I'm jumping right into a shooter we see how it goes
+also the idea of building a space invaders game. 
+- also im finshishing a cisco online classe and still reading my security+ 
 
 <h2> 🤳 Connect with me:</h2>
 
