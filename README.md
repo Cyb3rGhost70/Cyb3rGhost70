@@ -20,9 +20,9 @@
 - Cisco 
 <h3> - 🌱 I’m currently learning </h3>
 
--"After finishing the typical 'HELLO WORLD' program in Python, 
+-After finishing the typical 'HELLO WORLD' program in Python, 
 I'm diving straight into a shooter game to see how it goes. 
-I'm also toying with the idea of building a Space Invaders game.". 
+I'm also toying with the idea of building a Space Invaders game. 
 - also im finshishing a cisco online classe and still reading my security+ 
 
 <h2> 🤳 Connect with me:</h2>
