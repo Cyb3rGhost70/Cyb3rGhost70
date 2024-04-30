@@ -4,7 +4,7 @@
 
 - <b>Python Practice</b>
   - Hello world project
-
+  - <a href="https://github.com/Cyb3rGhost70/vslessons/blob/main/hangman.py">HANGMAN (follow along project)</a>
   - video game Pong 
 
 <h2>📺 Popular YouTube Videos</h2>
