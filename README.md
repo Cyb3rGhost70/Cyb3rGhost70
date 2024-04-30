@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber security Projects:</h2>
 
 - <b>Python Practice</b>
-  - Hello world project
+  - <a href="https://github.com/Cyb3rGhost70/vslessons/blob/main/hello.py">Hello world project</a>
   - <a href="https://github.com/Cyb3rGhost70/vslessons/blob/main/hangman.py">HANGMAN (follow along project)</a>
   - video game Pong 
 
